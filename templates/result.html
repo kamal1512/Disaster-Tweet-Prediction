@@ -23,7 +23,7 @@
 		<!-- Result -->
 		<div class="results">
 			{% if prediction==1 %}
-				<h1><span class='danger'>Be Alert!.. This is a Disaster Tweet.</span></h1>
+				<h1><span class='danger'>Be Alert!.. This can be a Disaster Tweet.</span></h1>
 			{% elif prediction==0 %}
 				<h1> <span class='safe'>Everything is Cool!..Nothing to Worry.</span></h1>
 				<img class="gif" src="{{ url_for('static', filename='positive-review.webp') }}" alt="Positive Review">
