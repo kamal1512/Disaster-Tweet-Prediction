@@ -18,7 +18,7 @@ body{
 .container{
 	padding: 30px;
 	position: relative;
-	background: linear-gradient(90deg);
+	background: linear-gradient(90deg, #d7e1ec, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out ;
 }
@@ -88,7 +88,7 @@ body{
 	padding: 20px;
 	flex-shrink: 0;
 	position: relative;
-	background: linear-gradient(90deg, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
+	background: linear-gradient(90deg, #d7e1ec, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
