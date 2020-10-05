@@ -1,5 +1,5 @@
 # Disaster-Tweet-Prediction
-<b> Predict which Tweets are about real disasters and which ones are not.</b>
+<b> Predict which Tweets are about <i>real disasters</i> and which ones are <i>not</i>.</b>
 
 • This repository consists of files required to deploy a Machine Learning Web App created with Flask on Heroku platform.
 
