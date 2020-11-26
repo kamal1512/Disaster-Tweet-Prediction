@@ -7,7 +7,7 @@
 _https://disaster-tweet.herokuapp.com/_
 
 For Code, Algorithms Used, Hyperparamter Tuning and Metrics, you can find that using below link:<br/>
-Link:_https://github.com/kamal1512/ML-code/tree/master/Disaster%20Tweet%20Prediciton_
+Link: _https://github.com/kamal1512/ML-code/tree/master/Disaster%20Tweet%20Prediciton_
 
 • A small GIF about the web app:
 
