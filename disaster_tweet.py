@@ -65,7 +65,7 @@ y=df.target
 
 # split	train and test
 x_train,x_test,y_train, y_test= train_test_split(x,y,test_size=0.2, stratify=y)
-x_train.shape,x_test.shape,y_train.shape,y_test.shape
+# x_train.shape,x_test.shape,y_train.shape,y_test.shape
 
 count_vect_tfidf= TfidfVectorizer()
 x_train_text_tfidf=count_vect_tfidf.fit_transform(x_train.text)
