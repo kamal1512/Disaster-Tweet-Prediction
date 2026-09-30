@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import pickle
 
 # Load the Logistic Regression model and TfidfVectorizer object from disk
+
 filename = 'Disaster-Tweet-LR-model.pkl'
 classifier = pickle.load(open(filename, 'rb'))
 cv = pickle.load(open('cv-transform.pkl','rb'))
